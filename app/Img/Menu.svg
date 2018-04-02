@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="14px" viewBox="0 0 32 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Contact" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-324.000000, -20.000000)" stroke-linecap="square">
+        <g id="Menu-Copy" transform="translate(325.000000, 20.000000)" stroke="#535C62" stroke-width="2">
+            <path d="M0,1 L30,1" id="Line"></path>
+            <path d="M0,13 L30,13" id="Line-2"></path>
+        </g>
+    </g>
+</svg>

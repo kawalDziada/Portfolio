@@ -1,0 +1,79 @@
+#Line {
+  transform: rotate(45deg) translateY(-1px) ;
+  transform-origin: 0 0;
+
+}
+
+
+#Line-2 {
+  transform: rotate(-45deg) translateY(1px) ;
+  transform-origin: 0 100%;
+}
+@media (max-width: 480px) {
+  .links {
+    position: absolute;
+    bottom: 15px;
+    right: 5px;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 480px) {
+  .links {
+    position: absolute;
+    bottom: 15px;
+    right: 5px;
+  }
+}
+
+@media (min-width: 768px) {
+  .links {
+    position: absolute;
+    bottom: 15px;
+    right: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  #corporation {
+    position: absolute;
+    left: 20px;
+    bottom: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #535C62;
+    font-size: 0.2em;
+    line-height: 148%;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 480px) {
+  #corporation {
+    position: absolute;
+    left: 20px;
+    bottom: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #535C62;
+    font-size: 0.2em;
+    line-height: 148%;
+  }
+}
+
+@media (min-width: 768px) {
+  #corporation {
+    position: absolute;
+    left: 30px;
+    bottom: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #535C62;
+    font-size: 0.2em;
+    line-height: 148%;
+  }
+}
+
+.social {
+  display: inline;
+  float: right;
+  transform: scale(0.70, 0.70);
+}
